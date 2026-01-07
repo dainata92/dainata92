@@ -24,7 +24,7 @@ Mon quotidien : coder, apprendre, expérimenter, et râler un peu quand ça bug 
 📫 Me contacter
 
 - ✉️ [dainataleva@gmail.com](mailto:dainataleva@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/dainata-leva)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dainata-leva)
 
 ---
 
