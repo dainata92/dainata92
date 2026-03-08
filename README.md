@@ -1,32 +1,47 @@
- Hi there 👋
+# Hi there, I'm Dainata 👋 
 
-👩‍💻 Dainata Leva
+### 💻 Software Engineer | Full Stack Developer | AI Enthusiast
+**Based in Paris 📍**
 
-🌱 Développeuse web en formation | 🔧 HTML • CSS • JavaScript • Angular •   
-🎯 En reconversion vers le développement web, passionnée par l'apprentissage continu et les projets concrets.  
-📍 Basée à Paris
+Passionate about building scalable, user-centric web applications and training the next generation of AI agents. I combine a rigorous **Software Engineering** background (RNCP Level 6) with a deep interest in **Prompt Engineering** and **LLM optimization**.
 
-👩‍🏫 À propos de moi
+---
 
-Je m'appelle Dainata, et je suis actuellement en formation pour devenir Conceptrice Développeuse d'Applications.  
-J’ai commencé ce parcours avec un objectif clair : créer des solutions web utiles, bien pensées et accessibles.
+### 🛠️ Technical Stack & Expertise
 
-Je suis organisée, motivée, curieuse, et j’aime comprendre comment les choses fonctionnent « sous le capot ».  
-Mon quotidien : coder, apprendre, expérimenter, et râler un peu quand ça bug 😉.
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | TypeScript, JavaScript, Angular, Vue.js, HTML, CSS |
+| **Backend** | Java, Spring Boot |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **AI & Data** | Google AI Essentials Certified, Prompt Engineering, Data Visualization |
+| **Tools & Ops** | Git, GitHub, Docker, Figma, Agile (Scrum) |
 
- 🔧 Compétences en cours d’acquisition
+---
 
-- Frontend : HTML5, CSS3, JavaScript, Angular  
-- Backend : Node.js (début), bases de PHP  
-- Outils : Git & GitHub, VS Code, Figma
-- Méthodologies : responsive design, versioning, composants réutilisables, bonnes pratiques d’accessibilité
+### 🌟 Featured Experience & Projects
 
-📫 Me contacter
+* **Front-End Developer @ Foxtrot Aviation:** Developed real-time flight data visualization dashboards. Optimized rendering logic using **TypeScript** and **Vue.js**.
+* **AI Data Specialist:** Certified in AI fundamentals, currently contributing to the evaluation and refinement of LLM-generated code and technical datasets.
+* **Algorithm Mastery:** Completed **FreeCodeCamp** certifications in JavaScript Algorithms and Data Structures.
+
+---
+
+### 👩‍🏫 About Me
+
+* **The "Under the Hood" Mindset:** I don't just code; I solve problems. I enjoy understanding complex architectures and writing clean, maintainable code.
+* **Adaptability:** At 33, my career pivot is driven by an iron-clad work ethic and commitment to technical excellence.
+* **Polyglot:** Fluent in 🇫🇷 French, 🇷🇴 Romanian, 🇬🇧 English, and 🇮🇹 Italian.
+
+---
+
+### 📫 Connect with me
 
 - ✉️ [dainataleva@gmail.com](mailto:dainataleva@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dainata-leva)
 
 ---
 
-Merci d’avoir lu jusqu’ici ! 🙌  
-N’hésitez pas à me contacter ou à jeter un œil à mes projets (à venir 👀).
+> "I don't just ship code; I ship solutions."
+
+---
